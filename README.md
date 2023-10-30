@@ -2,4 +2,6 @@
 
 In the midst of implementing my web development knowledge via this project. Will update this README.md file after completion.
 
+Link to project: <a href="https://jonettapek.github.io" target="_blank"></a>
+
 Note: This is not an open-source project, kindly do not create a pull request, thank you
