@@ -1,7 +1,7 @@
-# One T for Thoughts with J { one } tta
+<h1>One T for Thoughts with J { one } tta<h1>
 
-In the midst of implementing my web development knowledge via this project. Will update this README.md file after completion.
+<p>In the midst of implementing my web development knowledge via this project. Will update this README.md file after completion.</p>
 
-Link to project: <a href="https://jonettapek.github.io" target="_blank"></a>
+<p><a href="https://jonettapek.github.io" target="_blank">Link</a> to project</p>
 
-Note: This is not an open-source project, kindly do not create a pull request, thank you
+<p>Note: This is not an open-source project, kindly do not create a pull request, thank you</p>
