@@ -1,5 +1,14 @@
 body {
     margin: 0px;
+    background-color: #FCECDD;
+}
+
+header, footer {
+    background-color: #FFC288;
+}
+
+main {
+    height: 400px;
 }
 
 a {
@@ -9,38 +18,58 @@ a {
     text-decoration: none;
 }
 
-.main-header {
-    background-color: #D2E9E9;
+li {
+    list-style-type: none;
+}
+
+footer ul li a img {
+    padding: 10px;
+}
+
+.header {
     height: 220px;
     display: flex;
 }
 
-.main-header__blog-name {
+.header__blog-name {
     margin: 0px;
     padding: 40px 60px;
     font-family: 'Noto Sans Kawi', sans-serif;
-    color: purple;
+    color: #FF6701;
     width: 20%;
 }
 
-.main-nav {
+.nav {
     width: 80%;
 }
 
-.main-nav__list {
+.nav__list {
     margin: 0px;
     padding: 40px 60px;
-    list-style-type: none;
     height: 140px;
 }
 
-.main-nav__item {
+.nav__item {
     display: inline-flex;
+    height: 60px;
     margin: 0px 40px;
     padding: 40px;
-    height: 60px;
     justify-content: center;
     align-items: center;
+}
+
+.footer {
+    
+}
+
+.footer__list {
+    margin: 0px;
+    padding: 40px;
+    display: flex;
+}
+
+.footer_item {
+    
 }
 
 .center_text {
